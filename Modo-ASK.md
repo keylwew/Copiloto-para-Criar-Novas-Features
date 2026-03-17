@@ -3,7 +3,6 @@
 
 #  modo-ask.md
 
-```markdown
 #  Modo ASK
 
 O modo ASK é utilizado para tirar dúvidas e obter explicações.
