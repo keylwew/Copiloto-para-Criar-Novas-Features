@@ -3,7 +3,6 @@
 
 # modo-Plan.md
 
-```markdown
 # Modo PLAN
 
 O modo PLAN é utilizado para estruturar ideias antes da implementação.
